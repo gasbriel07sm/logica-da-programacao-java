@@ -23,5 +23,6 @@ public class matriz04 {
         }
         System.out.println(soma);
 
+        sc.close();
     }
 }

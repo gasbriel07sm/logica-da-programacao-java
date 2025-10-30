@@ -20,7 +20,9 @@ public class matriz03 {
                     maior = mat[i][j];
                 }
             }
+
             System.out.println(maior);
+            sc.close();
         }
     }
 }
